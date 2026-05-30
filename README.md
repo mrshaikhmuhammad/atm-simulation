@@ -44,9 +44,8 @@ This project simulates the core functionalities of an ATM system using fundament
 ```
 atm-simulation/
 ├── src/
-│   └── ATM.cpp     # Main driver — program flow & user interaction
-│
-├── DATABASE.txt    # Auto-generated on first run; stores all account records
+│   ├──  ATM.cpp     # Main driver — program flow & user interaction
+|   └── DATABASE.txt    # Auto-generated on first run; stores all account records
 ├── LICENSE
 └── README.md
 ```
